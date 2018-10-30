@@ -5,7 +5,7 @@ This is an implementation of the Apriori algorithm with multiple minimum support
 ### **PREREQUISITES**
 ----
 - Python version 3
-- Transaction file containing the all the itemsets
+- Transaction file containing all the itemsets
 - Parameter file containing the minimum supports for each item, the support difference constraint, the itemsets that cannot occur together and the items that must be a part of each of the frequent itemset found
 
 ### **STEPS TO RUN**
